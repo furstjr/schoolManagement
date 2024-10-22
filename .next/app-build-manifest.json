@@ -1,10 +1,9 @@
 {
   "pages": {
-    "/(dashboard)/admin/page": [
+    "/(dashboard)/list/lessons/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/(dashboard)/admin/page.css",
-      "static/chunks/app/(dashboard)/admin/page.js"
+      "static/chunks/app/(dashboard)/list/lessons/page.js"
     ],
     "/(dashboard)/layout": [
       "static/chunks/webpack.js",
@@ -17,40 +16,20 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/(dashboard)/list/classes/page": [
+    "/(dashboard)/list/exams/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/list/classes/page.js"
+      "static/chunks/app/(dashboard)/list/exams/page.js"
     ],
-    "/(dashboard)/list/lessons/page": [
+    "/(dashboard)/list/assignments/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/list/lessons/page.js"
+      "static/chunks/app/(dashboard)/list/assignments/page.js"
     ],
-    "/(dashboard)/list/subjects/page": [
+    "/(dashboard)/list/results/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/list/subjects/page.js"
-    ],
-    "/(dashboard)/list/parents/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/list/parents/page.js"
-    ],
-    "/(dashboard)/list/students/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/list/students/page.js"
-    ],
-    "/(dashboard)/list/teachers/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(dashboard)/list/teachers/page.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/(dashboard)/list/results/page.js"
     ]
   }
 }
