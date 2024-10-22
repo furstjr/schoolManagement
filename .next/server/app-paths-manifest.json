@@ -1,5 +1,7 @@
 {
+  "/(dashboard)/list/exams/page": "app/(dashboard)/list/exams/page.js",
   "/(dashboard)/list/assignments/page": "app/(dashboard)/list/assignments/page.js",
   "/(dashboard)/list/results/page": "app/(dashboard)/list/results/page.js",
-  "/(dashboard)/list/exams/page": "app/(dashboard)/list/exams/page.js"
+  "/(dashboard)/list/events/page": "app/(dashboard)/list/events/page.js",
+  "/(dashboard)/list/announcements/page": "app/(dashboard)/list/announcements/page.js"
 }
