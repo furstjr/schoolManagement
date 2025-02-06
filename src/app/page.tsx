@@ -1,19 +1,19 @@
-"use client"
+"use client";
 
-import { useEffect } from "react"
-import { useRouter } from "next/router"
+import { useEffect } from "react";
+import { useRouter } from "next/router";
 
 const Homepage = () => {
-  const router = useRouter()
+  const router = useRouter();
 
   useEffect(() => {
-    router.replace("/admin")
-  }, [])
+    router.replace("/admin");
+  }, []);
 
-  return null
+  return null;
   // return (
   //   <div className=''>Homepage</div>
   // )
-}
+};
 
-export default Homepage
+export default Homepage;
