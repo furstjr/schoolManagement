@@ -20,4 +20,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## View Project Live Demo
 
-- [Link](https://risto-school.vercel.app/) 
+- [Visit Link](https://risto-school.vercel.app/) 
