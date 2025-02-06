@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Infolute School Management Dashboard",
+  title: "Risto School Management Dashboard",
   description: "Next.js School Management System",
 };
 
